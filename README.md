@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 <!-- [![Top coding languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebrousse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
+
+[![@guillaumebrousse's Holopin board](https://holopin.me/guillaumebrousse)](https://holopin.io/@guillaumebrousse)
